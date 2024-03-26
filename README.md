@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Start of work in the field of reverse photonic: 26.03.2024 15:14
+
 <!--
 **golasmic/golasmic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
